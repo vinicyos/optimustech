@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import url(./styles/header.css);
+@import url(./styles/banner.css);
+@import url(./styles/info.css);
+@import url(./styles/vagas.css);
+@import url(./styles/vagas2.css);
+@import url(./styles/colab.css);
+@import url(./styles/contato.css);
+
+
+
+:root {
+    --cor-vermelha: #8e2424;
+    --cor-cinza: #667085;
+    --cor-branca: #ffffff;
+    --cor-azul-titulos: #101828;
+    --cor-conza-rodape: #98A2B3;
+
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}

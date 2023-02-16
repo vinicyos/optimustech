@@ -1,0 +1,38 @@
+.colaboradores {
+    display: flex;
+    justify-content: center;
+}
+
+.colaboradores__container {
+    background: rgba(196, 25, 25, 0.03);
+    width: 75%;
+    text-align: center;
+    padding: 4em;
+    border-radius: 15px;
+}
+
+.colaboradores__titulo2 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #8E2424;
+}
+
+.colaboradores__titulo  {
+    font-size: 36px;
+    font-weight: 500;
+    color: #101828;
+    padding: 1em 0;
+
+}
+
+.colaboradores__nome {
+    font-weight: 500;
+    color: #101828;
+    padding: 1em 0;
+}
+
+.colaboradores__função {
+    font-size: 14px;
+    font-weight: 400;
+    color: #667085;
+}

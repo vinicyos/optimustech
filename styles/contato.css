@@ -1,0 +1,49 @@
+.contato {
+    background: #F9FAFB;
+    margin-top: 6em;
+    text-align: center;
+    padding: 4em 0;
+}
+
+.contato__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: #101828;
+}
+
+.contato__texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: #667085;
+    margin: 2em 0 1.6em 0;
+}
+
+.input-email {
+    padding: 1.3em;
+    border-radius: 10px;
+    border: 0.5px solid;
+    border-color: #cecccc;
+    margin-right: 0.5em;
+    width: 15%;
+}
+
+.input-email::-webkit-input-placeholder {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'inter';
+    color: #8e2424
+}
+
+.botão-cadastro {
+    text-decoration: none;
+}
+
+
+
+.footer__texto {
+    text-align: center;
+    font-weight: 400;
+    color: #98A2B3;
+    margin-top: 2em;
+    
+}
